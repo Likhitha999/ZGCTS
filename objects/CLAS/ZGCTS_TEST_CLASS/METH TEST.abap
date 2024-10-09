@@ -1,4 +1,4 @@
   method TEST.
 
-    write:'8th oct'.
+    write:'8th oct - S4Q'.
   endmethod.
