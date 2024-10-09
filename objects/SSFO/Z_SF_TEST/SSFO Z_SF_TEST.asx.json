@@ -808,7 +808,7 @@
     "LANGU":"D",
     "FORMNAME":"Z_SF_TEST",
     "OBJTYPE":"WI",
-    "INAME":"MYSAPCOM",
+    "INAME":"s4q",
     "VARI":"",
     "CAPTION":"mySAP.com"
    },
@@ -872,7 +872,7 @@
     "LANGU":"E",
     "FORMNAME":"Z_SF_TEST",
     "OBJTYPE":"GR",
-    "INAME":"MYSAPCOM",
+    "INAME":"s4q",
     "VARI":"",
     "CAPTION":"New Graphic 1"
    },
