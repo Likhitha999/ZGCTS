@@ -1,5 +1,6 @@
   method TEST.
 
+
    data : lv_t type char2.
 
     write:'8th oct - S4D'.
@@ -8,3 +9,4 @@
 
 
   endmethod.
+
